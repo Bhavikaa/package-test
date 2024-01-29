@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Bhavikaa/package-test#readme",
   "publishConfig": {
-    "@bhavikaa:registry": "https://npm.pkg.github.com"
+    "@Bhavikaa:registry": "https://npm.pkg.github.com"
   }
 }
