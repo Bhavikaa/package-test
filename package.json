@@ -1,0 +1,19 @@
+{
+  "name": "@bhavikaa/package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavikaa/package-test.git"
+  },
+  "author": "Bhavika pandya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavikaa/package-test/issues"
+  },
+  "homepage": "https://github.com/Bhavikaa/package-test#readme"
+}
