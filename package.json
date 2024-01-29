@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bhavikaa/package-test/issues"
   },
-  "homepage": "https://github.com/Bhavikaa/package-test#readme"
+  "homepage": "https://github.com/Bhavikaa/package-test#readme",
+  "publishConfig": {
+    "@bhavikaa:registry": "https://npm.pkg.github.com"
+  }
 }
